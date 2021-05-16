@@ -1,0 +1,24 @@
+command> input a b c (ax^2+bx+c=0):  (1, 10, 24) solutions = -4.000000, -6.000000
+2 integer solutions
+command> input a b c (ax^2+bx+c=0):  (1, -6, 8) solutions = 4.000000, 2.000000
+2 integer solutions
+command> This program finds two numbers that are relative prime and the root of their square sum is an integer
+Input the ranges for the two numbers: -- 3, 4, sqrt = 5
+-- 5, 12, sqrt = 13
+-- 7, 24, sqrt = 25
+-- 8, 15, sqrt = 17
+-- 9, 40, sqrt = 41
+-- 11, 60, sqrt = 61
+-- 12, 35, sqrt = 37
+-- 13, 84, sqrt = 85
+-- 16, 63, sqrt = 65
+-- 20, 21, sqrt = 29
+-- 20, 99, sqrt = 101
+-- 28, 45, sqrt = 53
+-- 33, 56, sqrt = 65
+-- 36, 77, sqrt = 85
+-- 39, 80, sqrt = 89
+-- 48, 55, sqrt = 73
+-- 60, 91, sqrt = 109
+-- 65, 72, sqrt = 97
+command>      23     168     732
